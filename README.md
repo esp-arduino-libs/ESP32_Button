@@ -1,4 +1,4 @@
-[![Arduino Lint](https://github.com/esp-arduino-libs/[xxx]/actions/workflows/arduino_lint.yml/badge.svg)](https://github.com/esp-arduino-libs/[xxx]/actions/workflows/arduino_lint.yml) [![pre-commit](https://github.com/esp-arduino-libs/[xxx]/actions/workflows/pre-commit.yml/badge.svg)](https://github.com/esp-arduino-libs/[xxx]/actions/workflows/pre-commit.yml)
+[![Arduino Lint](https://github.com/esp-arduino-libs/ESP32_Button/actions/workflows/arduino_lint.yml/badge.svg)](https://github.com/esp-arduino-libs/ESP32_Button/actions/workflows/arduino_lint.yml) [![pre-commit](https://github.com/esp-arduino-libs/ESP32_Button/actions/workflows/pre-commit.yml/badge.svg)](https://github.com/esp-arduino-libs/ESP32_Button/actions/workflows/pre-commit.yml) [![Build Test Apps](https://github.com/esp-arduino-libs/ESP32_Button/actions/workflows/build_test.yml/badge.svg)](https://github.com/esp-arduino-libs/ESP32_Button/actions/workflows/build_test.yml)
 
 # ESP32_Button
 
